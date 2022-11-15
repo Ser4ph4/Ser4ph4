@@ -15,7 +15,7 @@
 </a>
 <P>
   
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=Ser4ph4.visitor-badge&left_text=Visitantes)
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=Ser4ph4.visitor-badge&left_text=Visitantes) ![COMMIT](https://img.shields.io/github/last-commit/Ser4ph4/Ser4ph4)
 
 
 
