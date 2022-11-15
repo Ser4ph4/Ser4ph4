@@ -10,18 +10,13 @@
 </p>
 
 ### Connect with me :smiley:
-
-<a href="https://dev.to/ser4ph4">
-  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
-</a><a href="https://www.reddit.com/user/Rodrigo-SQL">
-  <img align="left" alt="Ser4ph4" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
-</a><a href="https://stackoverflow.com/users/15271282/rodrigosql">
-  <img align="left" alt="Ser4ph4" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/784bea3c3aba6ca5173e3e172d0f5507e7714230/images/svg/stackoverflow.svg" />
+<PR>
+<a href="https://dev.to/ser4ph4"><img alt="DevTo" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /><img alt="ArchLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /><a href="https://www.reddit.com/user/Rodrigo-SQL/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /><a href="https://www.deviantart.com/rodrigosql"><img alt="Devia" src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" /><a href="https://stackoverflow.com/users/15271282/rodrigosql"><img alt="DevTo" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /><img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 </a>
-<br>
------------<P>
+<P>
   
-#![Visitantes](https://visitor-badge.glitch.me/badge?page_id=Ser4ph4.visitor-badge&left_text=Visitantes)
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=Ser4ph4.visitor-badge&left_text=Visitantes)
+
 
 
 
