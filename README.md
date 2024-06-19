@@ -14,8 +14,6 @@
 <a href="https://dev.to/ser4ph4"><img alt="DevTo" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /><img alt="ArchLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /><a href="https://www.reddit.com/user/Rodrigo-SQL/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /><a href="https://www.deviantart.com/rodrigosql"><img alt="Devia" src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" /><a href="https://stackoverflow.com/users/15271282/rodrigosql"><img alt="DevTo" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /><img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 </a>
 <P>
-  
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=Ser4ph4.visitor-badge&left_text=Visitantes) ![COMMIT](https://img.shields.io/github/last-commit/Ser4ph4/Ser4ph4)
 
 
 
