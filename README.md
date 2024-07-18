@@ -1,5 +1,5 @@
 # Ser4ph4!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ser4ph4&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ser4ph4&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ser4ph4&theme=tokyonight)
 <p>
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
@@ -14,7 +14,8 @@
 </a>
 <P>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ser4ph4)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
