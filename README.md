@@ -14,10 +14,3 @@
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&letterSpacing=-1px&pause=1000&width=435&lines=%22Control+Can+Sometimes+Be+An+Illusion.%22)](https://git.io/typing-svg)
-
-
-
-
-
-
-
