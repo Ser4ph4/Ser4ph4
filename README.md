@@ -12,7 +12,8 @@
 
 <a href="https://dev.to/ser4ph4"><img alt="DevTo" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /><a href="https://stackoverflow.com/users/15271282/rodrigosql"><img alt="DevTo" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /><img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 </a>
-<P>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Every+Relationship+Is+A+Power+Struggle.+Some+Of+Us+Need+To+Be+Controlled.%22)](https://git.io/typing-svg)
 
 
 
