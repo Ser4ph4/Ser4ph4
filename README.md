@@ -17,4 +17,3 @@
 ------------------------
 
 ![](https://komarev.com/ghpvc/?username=Ser4ph4-github-username&label=PROFILE+VIEWS)
-teste
