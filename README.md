@@ -1,4 +1,4 @@
-# Ser4ph4!
+# Ser4ph4👽
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ser4ph4&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ser4ph4&theme=dracula)
 <p>
