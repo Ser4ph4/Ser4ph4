@@ -1,5 +1,5 @@
 # Ser4ph4👽
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ser4ph4&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ser4ph4a&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ser4ph4&theme=dracula)
 <p>
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
