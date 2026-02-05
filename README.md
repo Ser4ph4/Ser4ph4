@@ -18,7 +18,8 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 ---
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Ser4ph4&label=Profile+Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Ser4ph4-github-username&label=PROFILE+VIEWS)
+
 
 **"Building the future, one commit at a time"** 🚀
 </div>
