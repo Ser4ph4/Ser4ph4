@@ -24,7 +24,8 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "false"
           
       - name: Notificar via Resend
-        if: github.event_name != 'pull_request' && success()
+        # Filtro robusto para evitar duplicidade em disparos de push/commit automático
+        if: github.event_name != 'push' && github.event_name != 'pull_request' && success()
         run: |
           curl -X POST https://api.resend.com/emails \
             -H "Authorization: Bearer ${{ secrets.RESEND_API_KEY }}" \
