@@ -15,13 +15,9 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 ## 💭 Dev Quote
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00F7A3&width=600&lines=%22Control+Can+Sometimes+Be+An+Illusion.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22)](https://git.io/typing-svg)
-
 ---
-
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Ser4ph4&label=Profile+Views&color=0e75b6&style=flat)
-
 **"Building the future, one commit at a time"** 🚀
-
 </div>
