@@ -2,6 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
+    # Roda às 18:30 UTC
     - cron: '30 18 * * *'
   workflow_dispatch:
 
@@ -16,8 +17,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Alterado aqui para usar o seu Personal Access Token
-          GH_TOKEN: ${{ secrets.WAKA_TOKEN }} 
+          GH_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
           SHOW_OS: "true"
           SHOW_PROJECTS: "true"
           SHOW_TOTAL_CODE_TIME: "true"
