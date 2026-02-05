@@ -28,42 +28,26 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 
 ### 📁 Minhas estatísticas de programação
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.38%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 176.3 kB Used in GitHub's Storage 
- > 
-> 🏆 296 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                775 commits         ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-🌆 Daytime                1403 commits        ██████████░░░░░░░░░░░░░░░   41.62 % 
+🌞 Morning                775 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+🌆 Daytime                1403 commits        ██████████░░░░░░░░░░░░░░░   41.61 % 
 🌃 Evening                940 commits         ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-🌙 Night                  253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+🌙 Night                  254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Tuesday                  338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Tuesday                  338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 Wednesday                676 commits         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Thursday                 678 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Thursday                 679 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
 Friday                   403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 Saturday                 495 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Sunday                   551 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Sunday                   551 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
 ```
 
 
@@ -104,7 +88,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 03:07:38 UTC
+ Last Updated on 05/02/2026 03:13:33 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
