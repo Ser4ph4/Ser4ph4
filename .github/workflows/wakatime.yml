@@ -2,22 +2,22 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST (18:30 UTC)
     - cron: '30 18 * * *'
-  workflow_dispatch: # Permite rodar manualmente para testar
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Essencial para permitir que o bot atualize seu README
+      contents: write
     
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Alterado aqui para usar o seu Personal Access Token
+          GH_TOKEN: ${{ secrets.WAKA_TOKEN }} 
           SHOW_OS: "true"
           SHOW_PROJECTS: "true"
           SHOW_TOTAL_CODE_TIME: "true"
