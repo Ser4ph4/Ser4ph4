@@ -26,8 +26,14 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
+## 📊 Minhas estatísticas de programação
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 **"Building the future, one commit at a time"** 🚀
 </div>
+
 <div align="center"> 
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Ser4ph4-github-username&label=PROFILE+VIEWS)
