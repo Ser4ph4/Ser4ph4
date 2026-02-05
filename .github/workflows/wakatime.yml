@@ -2,7 +2,6 @@ name: Waka Readme
 
 on:
   schedule:
-    # Roda às 18:30 UTC
     - cron: '30 18 * * *'
   workflow_dispatch:
 
@@ -14,7 +13,9 @@ jobs:
       contents: write
     
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Rodar WakaStats
+        id: waka_job # Criamos um ID único aqui
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
@@ -24,8 +25,8 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "false"
           
       - name: Notificar via Resend
-        # Filtro robusto para evitar duplicidade em disparos de push/commit automático
-        if: github.event_name != 'push' && github.event_name != 'pull_request' && success()
+        # Esta condição é muito mais restrita: só roda se o ID acima terminou com sucesso e ignora pushes
+        if: steps.waka_job.outcome == 'success' && github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: |
           curl -X POST https://api.resend.com/emails \
             -H "Authorization: Bearer ${{ secrets.RESEND_API_KEY }}" \
