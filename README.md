@@ -28,6 +28,40 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 
 ### 📁 Minhas estatísticas de programação
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.38%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 176.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 296 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I Mostly Code in CSS** 
+
+```text
+CSS                      8 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/02/2026 03:03:39 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
