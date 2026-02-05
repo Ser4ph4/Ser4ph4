@@ -1,12 +1,13 @@
 name: Waka Readme
 
-# Trava de concorrência: cancela execuções pendentes se uma nova for disparada
+# Impede execuções duplicadas simultâneas
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
 on:
   schedule:
+    # Roda diariamente às 18:30 UTC
     - cron: '30 18 * * *'
   workflow_dispatch:
 
@@ -16,8 +17,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Rodar WakaStats
         id: waka_job
         uses: anmol098/waka-readme-stats@master
@@ -28,17 +32,23 @@ jobs:
           SHOW_SHORT_INFO: "false"
           SHOW_PROFILE_VIEWS: "false"
           SHOW_TOTAL_CODE_TIME: "false"
-          
+          # Opções extras para garantir estabilidade
+          COMMIT_MESSAGE: "Updated WakaTime stats [skip ci]"
+          SHOW_LOC_CHART: "false"
+
       - name: Notificar via Resend
-        # Garante que só envie o e-mail se o passo anterior terminou e ignora eventos de push
-        if: steps.waka_job.outcome == 'success' && github.event_name != 'push'
+        # Só dispara se o passo anterior foi um sucesso absoluto e não é um push automático
+        if: success() && steps.waka_job.outcome == 'success' && github.event_name != 'push'
+        env:
+          RESEND_KEY: ${{ secrets.RESEND_API_KEY }}
         run: |
-          curl -X POST https://api.resend.com/emails \
-            -H "Authorization: Bearer ${{ secrets.RESEND_API_KEY }}" \
+          NOW=$(date +'%d/%m/%Y %H:%M')
+          curl -s -X POST https://api.resend.com/emails \
+            -H "Authorization: Bearer $RESEND_KEY" \
             -H "Content-Type: application/json" \
             -d '{
               "from": "notify@nemik.top",
               "to": "ser4ph4@proton.me",
-              "subject": "Waka Readme Atualizado!",
-              "html": "<p>✔️ As métricas do seu perfil foram atualizadas com sucesso em <strong>'"$(date +'%d/%m/%Y %H:%M')"'</strong>!</p>"
+              "subject": "🚀 WakaTime: Perfil Atualizado!",
+              "html": "<h3>✔️ README Atualizado!</h3><p>Suas estatísticas de código foram sincronizadas com sucesso.</p><p>📅 <strong>Data:</strong> '"$NOW"'</p><p>💡 <i>Dica: O tempo total de código pode ser conferido diretamente no seu painel privado.</i></p><p>🔗 <a href=\"https://wakatime.com/dashboard\">Acessar Dashboard do WakaTime</a></p>"
             }'
