@@ -23,8 +23,8 @@ jobs:
           SHOW_PROFILE_VIEWS: "false"
           SHOW_TOTAL_CODE_TIME: "false"
           
-  - name: Notificar via Resend
-        if: success() # Só envia se o passo anterior deu certo
+      - name: Notificar via Resend
+        if: success()
         run: |
           curl -X POST https://api.resend.com/emails \
             -H "Authorization: Bearer ${{ secrets.RESEND_API_KEY }}" \
@@ -33,5 +33,5 @@ jobs:
               "from": "notify@nemik.top",
               "to": "ser4ph4@proton.me",
               "subject": "Waka Readme Atualizado!",
-              "html": "✔️<p>As métricas do seu perfil no GitHub foram atualizadas com sucesso em <strong>'$(date)'</strong>!</p>"
+              "html": "✔️<p>As métricas do seu perfil no GitHub foram atualizadas com sucesso em <strong>'"$(date)"'</strong>!</p>"
             }'
