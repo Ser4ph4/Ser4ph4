@@ -50,7 +50,6 @@ Saturday                 498 commits         ███░░░░░░░░�
 Sunday                   551 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 ```
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -98,5 +97,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 </div> 
 <div align="center"> 
   
-~ contact me → [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ouizakz5u@mozmail.com)
+  [![Email](https://img.shields.io/badge/Email-Mozmail-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ouizakz5u@mozmail.com)
   </div> 
