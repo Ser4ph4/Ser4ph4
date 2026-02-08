@@ -88,9 +88,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
-
-
-
  Last Updated on 07/02/2026 19:03:26 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
@@ -99,3 +96,7 @@ HTML                     1 repo              █░░░░░░░░░░�
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Ser4ph4-github-username&label=PROFILE+VIEWS)
 </div> 
+<div align="center"> 
+  
+~ contact me → [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ouizakz5u@mozmail.com)
+  </div> 
