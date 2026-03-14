@@ -1,9 +1,13 @@
 name: Waka Readme
 
-# Impede execuções duplicadas simultâneas
+# Impede execuções duplicadas se você clicar no botão várias vezes rapidamente
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
+
+env:
+  # Remove o aviso de depreciação do Node.js nos logs
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 on:
   schedule:
@@ -19,8 +23,11 @@ jobs:
       contents: write
 
     steps:
+      # Checkout usando seu PAT para garantir permissão de escrita (evita erro 403)
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.WAKATIME_TOKEN }}
 
       - name: Rodar WakaStats
         id: waka_job
@@ -32,12 +39,10 @@ jobs:
           SHOW_SHORT_INFO: "false"
           SHOW_PROFILE_VIEWS: "false"
           SHOW_TOTAL_CODE_TIME: "false"
-          # Opções extras para garantir estabilidade
           COMMIT_MESSAGE: "Updated WakaTime stats [skip ci]"
-          SHOW_LOC_CHART: "false"
 
       - name: Notificar via Resend
-        # Só dispara se o passo anterior foi um sucesso absoluto e não é um push automático
+        # Só dispara se o workflow foi manual ou agendado, e se o passo anterior deu certo
         if: success() && steps.waka_job.outcome == 'success' && github.event_name != 'push'
         env:
           RESEND_KEY: ${{ secrets.RESEND_API_KEY }}
