@@ -1,6 +1,6 @@
 name: Waka Readme
 
-# Impede execuções duplicadas se você clicar no botão várias vezes rapidamente
+# Impede execuções duplicadas simultâneas
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
@@ -23,7 +23,7 @@ jobs:
       contents: write
 
     steps:
-      # Checkout usando seu PAT para garantir permissão de escrita (evita erro 403)
+      # Checkout usando seu PAT para garantir permissão de escrita
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
@@ -41,8 +41,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "false"
           COMMIT_MESSAGE: "Updated WakaTime stats [skip ci]"
 
-      - name: Notificar via Resend
-        # Só dispara se o workflow foi manual ou agendado, e se o passo anterior deu certo
+      - name: Notificar Sucesso (Resend)
         if: success() && steps.waka_job.outcome == 'success' && github.event_name != 'push'
         env:
           RESEND_KEY: ${{ secrets.RESEND_API_KEY }}
@@ -55,5 +54,20 @@ jobs:
               "from": "notify@nemik.top",
               "to": "ser4ph4@proton.me",
               "subject": "🚀 WakaTime: Perfil Atualizado!",
-              "html": "<h3>✔️ README Atualizado!</h3><p>Suas estatísticas de código foram sincronizadas com sucesso.</p><p>📅 <strong>Data:</strong> '"$NOW"'</p><p>💡 <i>Dica: O tempo total de código pode ser conferido diretamente no seu painel privado.</i></p><p>🔗 <a href=\"https://wakatime.com/dashboard\">Acessar Dashboard do WakaTime</a></p>"
+              "html": "<h3>✔️ README Atualizado!</h3><p>Suas estatísticas foram sincronizadas com sucesso.</p><p>📅 <strong>Data:</strong> '"$NOW"'</p><p>🔗 <a href=\"https://wakatime.com/dashboard\">Acessar Dashboard</a></p>"
+            }'
+
+      - name: Notificar Falha (Resend)
+        if: failure()
+        env:
+          RESEND_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: |
+          curl -s -X POST https://api.resend.com/emails \
+            -H "Authorization: Bearer $RESEND_KEY" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "from": "notify@nemik.top",
+              "to": "ser4ph4@proton.me",
+              "subject": "⚠️ ALERTA: Falha no Waka Readme",
+              "html": "<h3>❌ Erro na Atualização</h3><p>O workflow do WakaTime falhou no repositório Ser4ph4.</p><p>Verifique os logs no GitHub Actions para identificar o problema (pode ser um token expirado).</p><p>🔗 <a href=\"https://github.com/Ser4ph4/Ser4ph4/actions\">Ver Logs de Execução</a></p>"
             }'
