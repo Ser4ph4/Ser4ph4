@@ -41,33 +41,36 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "false"
           COMMIT_MESSAGE: "Updated WakaTime stats [skip ci]"
 
-      - name: Notificar Sucesso (Brevo)
-        if: success() && steps.waka_job.outcome == 'success' && github.event_name != 'push'
-        env:
-          BREVO_KEY: ${{ secrets.BREVO_API_KEY }}
-        run: |
-          NOW=$(date +'%d/%m/%Y %H:%M')
-          curl -s -X POST https://api.brevo.com/v3/smtp/email \
-            -H "api-key: $BREVO_KEY" \
-            -H "Content-Type: application/json" \
-            -d '{
-              "sender": { "name": "Nemik Notify", "email": "notify@nemik.top" },
-              "to": [{ "email": "ser4ph4@proton.me" }],
-              "subject": "🚀 WakaTime: Perfil Atualizado!",
-              "htmlContent": "<h3>✔️ README Atualizado!</h3><p>Suas estatísticas foram sincronizadas com sucesso.</p><p>📅 <strong>Data:</strong> '"$NOW"'</p><p>🔗 <a href=\"https://wakatime.com/dashboard\">Acessar Dashboard</a></p>"
-            }'
-
-      - name: Notificar Falha (Brevo)
-        if: failure()
-        env:
-          BREVO_KEY: ${{ secrets.BREVO_API_KEY }}
-        run: |
-          curl -s -X POST https://api.brevo.com/v3/smtp/email \
-            -H "api-key: $BREVO_KEY" \
-            -H "Content-Type: application/json" \
-            -d '{
-              "sender": { "name": "Nemik Notify", "email": "notify@nemik.top" },
-              "to": [{ "email": "ser4ph4@proton.me" }],
+        - name: Notificar Sucesso (Brevo)
+                if: success() && steps.waka_job.outcome == 'success' && github.event_name != 'push'
+                env:
+                  BREVO_KEY: ${{ secrets.BREVO_API_KEY }}
+                run: |
+                  NOW=$(date +'%d/%m/%Y %H:%M')
+                  curl -sS -f -X POST https://api.brevo.com/v3/smtp/email \
+                    -H "api-key: $BREVO_KEY" \
+                    -H "Content-Type: application/json" \
+                    -d '{
+                      "sender": { "name": "Nemik Notify", "email": "notify@nemik.top" },
+                      "to": [{ "email": "ser4ph4@proton.me" }],
+                      "subject": "🚀 WakaTime: Perfil Atualizado!",
+                      "htmlContent": "<h3>✔️ README Atualizado!</h3><p>Suas estatísticas foram sincronizadas com sucesso.</p><p>📅 <strong>Data:</strong> '"$NOW"'</p><p>🔗 <a href=\"https://wakatime.com/dashboard\">Acessar Dashboard</a></p>"
+                    }'
+        
+              - name: Notificar Falha (Brevo)
+                if: failure()
+                env:
+                  BREVO_KEY: ${{ secrets.BREVO_API_KEY }}
+                run: |
+                  curl -sS -f -X POST https://api.brevo.com/v3/smtp/email \
+                    -H "api-key: $BREVO_KEY" \
+                    -H "Content-Type: application/json" \
+                    -d '{
+                      "sender": { "name": "Nemik Notify", "email": "notify@nemik.top" },
+                      "to": [{ "email": "ser4ph4@proton.me" }],
+                      "subject": "⚠️ ALERTA: Falha no Waka Readme",
+                      "htmlContent": "<h3>❌ Erro na Atualização</h3><p>O workflow do WakaTime falhou no repositório Ser4ph4.</p><p>Verifique os logs no GitHub Actions para identificar o problema (pode ser um token expirado).</p><p>🔗 <a href=\"https://github.com/Ser4ph4/Ser4ph4/actions\">Ver Logs de Execução</a></p>"
+                    }'
               "subject": "⚠️ ALERTA: Falha no Waka Readme",
               "htmlContent": "<h3>❌ Erro na Atualização</h3><p>O workflow do WakaTime falhou no repositório Ser4ph4.</p><p>Verifique os logs no GitHub Actions para identificar o problema (pode ser um token expirado).</p><p>🔗 <a href=\"https://github.com/Ser4ph4/Ser4ph4/actions\">Ver Logs de Execução</a></p>"
             }'
