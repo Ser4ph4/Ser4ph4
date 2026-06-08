@@ -60,7 +60,7 @@ jobs:
           HTML_CONTENT="<h3>✔️ README Atualizado!</h3><p>Suas estatísticas foram sincronizadas com sucesso.</p><p>📅 <strong>Data:</strong> $NOW</p><p>🔗 <a href=\"https://wakatime.com/dashboard\">Acessar Dashboard</a></p>"
           
           aws ses send-email \
-            --from "Nemik Notify <notify@nemik.top>" \
+            --from "Nemik Notify <system@nemik.top>" \
             --destination "ToAddresses=ser4ph4@proton.me" \
             --message "Subject={Data=🚀 WakaTime: Perfil Atualizado!,Charset=UTF-8},Body={Html={Data=$HTML_CONTENT,Charset=UTF-8}}"
 
