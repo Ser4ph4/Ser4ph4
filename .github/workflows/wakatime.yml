@@ -13,7 +13,7 @@ env:
 on:
   schedule:
     # Roda diariamente às 18:30 UTC
-    - cron: '30 18 * * *'
+    - cron: "30 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -42,9 +42,9 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "false"
           COMMIT_MESSAGE: "Updated WakaTime stats [skip ci]"
 
-      # Configura as credenciais AWS uma única vez para os passos seguintes
+      # Configura as credenciais AWS (sempre roda para garantir o envio em caso de falha)
       - name: Configure AWS credentials
-        if: always() # Garante que roda mesmo se o WakaStats falhar, para podermos enviar o e-mail de erro
+        if: always()
         uses: aws-actions/configure-aws-credentials@v4
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
@@ -55,21 +55,40 @@ jobs:
         if: success() && steps.waka_job.outcome == 'success' && github.event_name != 'push'
         run: |
           NOW=$(date +'%d/%m/%Y %H:%M')
-          
-          # Escapa o HTML para o JSON da AWS CLI
+
           HTML_CONTENT="<h3>✔️ README Atualizado!</h3><p>Suas estatísticas foram sincronizadas com sucesso.</p><p>📅 <strong>Data:</strong> $NOW</p><p>🔗 <a href=\"https://wakatime.com/dashboard\">Acessar Dashboard</a></p>"
-          
+
+          JSON_DATA=$(cat <<EOF
+          {
+            "Subject": { "Data": "🚀 WakaTime: Perfil Atualizado!", "Charset": "UTF-8" },
+            "Body": {
+              "Html": { "Data": $(echo "$HTML_CONTENT" | jq -R .), "Charset": "UTF-8" }
+            }
+          }
+          EOF
+          )
+
           aws ses send-email \
-            --from "Nemik Notify <system@nemik.top>" \
+            --from "Nemik Notify <notify@nemik.top>" \
             --destination "ToAddresses=ser4ph4@proton.me" \
-            --message "Subject={Data=🚀 WakaTime: Perfil Atualizado!,Charset=UTF-8},Body={Html={Data=$HTML_CONTENT,Charset=UTF-8}}"
+            --message "$JSON_DATA"
 
       - name: Notificar Falha (AWS SES)
         if: failure()
         run: |
           HTML_CONTENT="<h3>❌ Erro na Atualização</h3><p>O workflow do WakaTime falhou no repositório Ser4ph4.</p><p>Verifique os logs no GitHub Actions para identificar o problema (pode ser um token expirado).</p><p>🔗 <a href=\"https://github.com/Ser4ph4/Ser4ph4/actions\">Ver Logs de Execução</a></p>"
-          
+
+          JSON_DATA=$(cat <<EOF
+          {
+            "Subject": { "Data": "⚠️ ALERTA: Falha no Waka Readme", "Charset": "UTF-8" },
+            "Body": {
+              "Html": { "Data": $(echo "$HTML_CONTENT" | jq -R .), "Charset": "UTF-8" }
+            }
+          }
+          EOF
+          )
+
           aws ses send-email \
             --from "Nemik Notify <notify@nemik.top>" \
             --destination "ToAddresses=ser4ph4@proton.me" \
-            --message "Subject={Data=⚠️ ALERTA: Falha no Waka Readme,Charset=UTF-8},Body={Html={Data=$HTML_CONTENT,Charset=UTF-8}}"
+            --message "$JSON_DATA"
