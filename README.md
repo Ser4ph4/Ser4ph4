@@ -28,6 +28,8 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 
 ### 📁 Minhas estatísticas de programação
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2014%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.60%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -57,20 +59,26 @@ Sunday                   857 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Bash                     37 mins             ███████████░░░░░░░░░░░░░░   42.75 % 
-JSON                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-Python                   12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Bash                     47 mins             ██████████░░░░░░░░░░░░░░░   40.85 % 
+JSON                     35 mins             ████████░░░░░░░░░░░░░░░░░   30.48 % 
+Python                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rodri                    1 hr 28 mins        █████████████████████████   100.00 % 
+rodri                    1 hr 55 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in CSS** 
@@ -90,7 +98,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:45:04 UTC
+ Last Updated on 27/07/2026 20:05:06 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
