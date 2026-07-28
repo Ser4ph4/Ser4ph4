@@ -59,20 +59,20 @@ Sunday                   857 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Bash                     47 mins             ██████████░░░░░░░░░░░░░░░   40.85 % 
-JSON                     35 mins             ████████░░░░░░░░░░░░░░░░░   30.48 % 
-Python                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Bash                     47 mins             ██████████░░░░░░░░░░░░░░░   40.09 % 
+JSON                     35 mins             ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rodri                    1 hr 55 mins        █████████████████████████   100.00 % 
+rodri                    1 hr 57 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +98,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:05:06 UTC
+ Last Updated on 28/07/2026 20:01:50 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
