@@ -59,21 +59,22 @@ Sunday                   857 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Bash                     36 mins             ████████████░░░░░░░░░░░░░   46.34 % 
-JSON                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-PowerShell               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Bash                     1 hr 8 mins         ████████████░░░░░░░░░░░░░   47.70 % 
+Text                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+PowerShell               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        ███████████████████████░░   92.14 % 
-Sublime Text             6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+VS Code                  1 hr 50 mins        ███████████████████░░░░░░   77.32 % 
+Sublime Text             32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
 
 🐱‍💻 Projects: 
-rodri                    1 hr 18 mins        █████████████████████████   100.00 % 
+rodri                    2 hrs 21 mins       █████████████████████████   98.92 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,11 +86,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in CSS** 
 
 ```text
-CSS                      9 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+CSS                      9 repos             ██████████░░░░░░░░░░░░░░░   39.13 % 
+HTML                     6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
 
 
@@ -99,7 +100,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 20:02:17 UTC
+ Last Updated on 31/07/2026 20:02:51 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
