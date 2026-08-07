@@ -35,21 +35,21 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2140 commits        ██████████░░░░░░░░░░░░░░░   38.91 % 
-🌆 Daytime                1649 commits        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-🌃 Evening                1302 commits        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-🌙 Night                  409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+🌞 Morning                2140 commits        ██████████░░░░░░░░░░░░░░░   38.89 % 
+🌆 Daytime                1649 commits        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+🌃 Evening                1305 commits        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+🌙 Night                  409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Tuesday                  607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Wednesday                892 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Thursday                 859 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Friday                   824 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Saturday                 793 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Sunday                   857 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Monday                   668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Tuesday                  607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Wednesday                892 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Thursday                 862 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Friday                   824 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Saturday                 793 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Sunday                   857 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 ```
 
 
@@ -59,22 +59,23 @@ Sunday                   857 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Bash                     2 hrs               ████████░░░░░░░░░░░░░░░░░   31.93 % 
-Python                   1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-AutoHotkey               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Text                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Bash                     2 hrs               ████████░░░░░░░░░░░░░░░░░   32.91 % 
+Python                   1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+AutoHotkey               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+PowerShell               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 41 mins       ███████████████████░░░░░░   74.46 % 
-Sublime Text             1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+VS Code                  4 hrs 35 mins       ███████████████████░░░░░░   75.24 % 
+Sublime Text             1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
 
 🐱‍💻 Projects: 
-rodri                    6 hrs 16 mins       █████████████████████████   99.59 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+rodri                    6 hrs 4 mins        █████████████████████████   99.47 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 6 mins        █████████████████████████   99.89 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +101,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:05:17 UTC
+ Last Updated on 07/08/2026 00:24:10 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
