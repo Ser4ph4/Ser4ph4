@@ -35,19 +35,19 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2140 commits        ██████████░░░░░░░░░░░░░░░   38.89 % 
-🌆 Daytime                1649 commits        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+🌞 Morning                2140 commits        ██████████░░░░░░░░░░░░░░░   38.87 % 
+🌆 Daytime                1651 commits        ███████░░░░░░░░░░░░░░░░░░   29.99 % 
 🌃 Evening                1305 commits        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
 🌙 Night                  409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Monday                   668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 Tuesday                  607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Wednesday                892 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Wednesday                892 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
 Thursday                 862 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Friday                   824 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Friday                   826 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 Saturday                 793 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
 Sunday                   857 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 ```
@@ -59,23 +59,24 @@ Sunday                   857 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Bash                     2 hrs               ████████░░░░░░░░░░░░░░░░░   32.91 % 
-Python                   1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-AutoHotkey               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-PowerShell               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Python                   1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   33.72 % 
+Bash                     1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+AutoHotkey               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+INI                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 35 mins       ███████████████████░░░░░░   75.24 % 
-Sublime Text             1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+VS Code                  3 hrs 39 mins       ███████████████████░░░░░░   77.24 % 
+Sublime Text             1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
 
 🐱‍💻 Projects: 
-rodri                    6 hrs 4 mins        █████████████████████████   99.47 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+rodri                    4 hrs 29 mins       ████████████████████████░   95.13 % 
+sensorpanel              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  6 hrs 6 mins        █████████████████████████   99.89 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Windows                  4 hrs 29 mins       ████████████████████████░   95.13 % 
+Linux                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,7 +102,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:24:10 UTC
+ Last Updated on 07/08/2026 19:29:27 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
