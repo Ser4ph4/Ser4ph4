@@ -59,22 +59,22 @@ Sunday                   902 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   24 mins             █████████░░░░░░░░░░░░░░░░   35.11 % 
-PHP                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Other                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-CSS                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Bash                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Python                   24 mins             █████████░░░░░░░░░░░░░░░░   34.79 % 
+PHP                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Other                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+CSS                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████░░░░░░░░   67.16 % 
-Sublime Text             23 mins             ████████░░░░░░░░░░░░░░░░░   32.84 % 
+VS Code                  48 mins             █████████████████░░░░░░░░   67.46 % 
+Sublime Text             23 mins             ████████░░░░░░░░░░░░░░░░░   32.54 % 
 
 🐱‍💻 Projects: 
-qBittorrent              47 mins             █████████████████░░░░░░░░   67.16 % 
-Unknown Project          23 mins             ████████░░░░░░░░░░░░░░░░░   32.84 % 
+qBittorrent              48 mins             █████████████████░░░░░░░░   67.46 % 
+Unknown Project          23 mins             ████████░░░░░░░░░░░░░░░░░   32.54 % 
 
 💻 Operating System: 
-Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:08:24 UTC
+ Last Updated on 19/08/2026 19:03:10 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
