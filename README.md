@@ -59,19 +59,19 @@ Sunday                   902 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   1 hr 53 mins        ███████████████████░░░░░░   74.57 % 
-CSS                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-PHP                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Python                   1 hr 53 mins        ███████████████████░░░░░░   74.51 % 
+CSS                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+PHP                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        █████████████████████░░░░   85.00 % 
-Sublime Text             22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+VS Code                  2 hrs 10 mins       █████████████████████░░░░   85.07 % 
+Sublime Text             22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
 
 🐱‍💻 Projects: 
-qBittorrent              2 hrs 9 mins        █████████████████████░░░░   85.00 % 
-Unknown Project          22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+qBittorrent              2 hrs 10 mins       █████████████████████░░░░   85.07 % 
+Unknown Project          22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
 
 💻 Operating System: 
 Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
@@ -100,7 +100,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:56:42 UTC
+ Last Updated on 23/08/2026 18:57:04 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
