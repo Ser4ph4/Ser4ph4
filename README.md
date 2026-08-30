@@ -59,22 +59,21 @@ Sunday                   902 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   39 mins             ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-CSS                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Bash                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Desktop file             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Python                   38 mins             ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+CSS                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Bash                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Desktop file             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        ██████████████░░░░░░░░░░░   54.71 % 
-Sublime Text             1 hr 2 mins         ███████████░░░░░░░░░░░░░░   45.29 % 
+VS Code                  1 hr 15 mins        █████████████░░░░░░░░░░░░   53.76 % 
+Sublime Text             1 hr 4 mins         ████████████░░░░░░░░░░░░░   46.24 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 18 mins       █████████████████████████   99.50 % 
-qBittorrent              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Unknown Project          2 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +99,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:04:39 UTC
+ Last Updated on 30/08/2026 21:19:57 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
