@@ -35,21 +35,21 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2383 commits        ██████████░░░░░░░░░░░░░░░   41.32 % 
-🌆 Daytime                1669 commits        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-🌃 Evening                1306 commits        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-🌙 Night                  409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+🌞 Morning                2423 commits        ██████████░░░░░░░░░░░░░░░   41.73 % 
+🌆 Daytime                1669 commits        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+🌃 Evening                1306 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+🌙 Night                  409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Tuesday                  653 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Wednesday                894 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Thursday                 902 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Friday                   874 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Saturday                 834 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Sunday                   902 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Monday                   708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Tuesday                  693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Wednesday                894 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Thursday                 902 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Friday                   874 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Saturday                 834 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Sunday                   902 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 ```
 
 
@@ -59,21 +59,21 @@ Sunday                   902 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   39 mins             ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-CSS                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Bash                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Desktop file             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Python                   39 mins             ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+CSS                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Bash                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Desktop file             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+PHP                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████░░░░░░░░░░░░   53.65 % 
-Sublime Text             1 hr 6 mins         ████████████░░░░░░░░░░░░░   46.35 % 
+VS Code                  1 hr 15 mins        ██████████████░░░░░░░░░░░   56.22 % 
+Sublime Text             58 mins             ███████████░░░░░░░░░░░░░░   43.78 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 22 mins       █████████████████████████   100.00 % 
+Unknown Project          2 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +99,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 23:00:08 UTC
+ Last Updated on 01/09/2026 21:13:54 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
