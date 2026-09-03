@@ -30,26 +30,26 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.60%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.61%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2425 commits        ██████████░░░░░░░░░░░░░░░   41.75 % 
-🌆 Daytime                1669 commits        ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-🌃 Evening                1306 commits        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-🌙 Night                  409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+🌞 Morning                2426 commits        ██████████░░░░░░░░░░░░░░░   41.68 % 
+🌆 Daytime                1679 commits        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+🌃 Evening                1307 commits        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+🌙 Night                  409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Tuesday                  693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Wednesday                896 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Thursday                 902 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Friday                   874 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Saturday                 834 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Sunday                   902 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Monday                   708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Tuesday                  693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Wednesday                897 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Thursday                 913 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Friday                   874 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Saturday                 834 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Sunday                   902 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
 ```
 
 
@@ -59,22 +59,22 @@ Sunday                   902 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   32.85 % 
-Python                   1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-PHP                      40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Desktop file             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+CSS                      4 hrs 58 mins       ███████████████░░░░░░░░░░   61.31 % 
+Python                   1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+PHP                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Desktop file             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 26 mins       ██████████████████░░░░░░░   72.69 % 
-Sublime Text             1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+VS Code                  6 hrs 41 mins       █████████████████████░░░░   82.41 % 
+Sublime Text             1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 57 mins       █████████████████████░░░░   83.77 % 
-components               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+components               4 hrs 10 mins       █████████████░░░░░░░░░░░░   51.41 % 
+Unknown Project          3 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.59 % 
 
 💻 Operating System: 
-Linux                    4 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:14:15 UTC
+ Last Updated on 03/09/2026 21:13:58 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
