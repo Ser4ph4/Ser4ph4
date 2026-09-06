@@ -35,20 +35,20 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2466 commits        ██████████░░░░░░░░░░░░░░░   42.00 % 
-🌆 Daytime                1680 commits        ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-🌃 Evening                1309 commits        ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+🌞 Morning                2466 commits        ██████████░░░░░░░░░░░░░░░   41.98 % 
+🌆 Daytime                1680 commits        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+🌃 Evening                1311 commits        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 🌙 Night                  417 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Monday                   708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 Tuesday                  693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Wednesday                897 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Thursday                 913 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                897 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Thursday                 913 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 Friday                   885 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Saturday                 874 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Saturday                 876 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 Sunday                   902 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 ```
 
@@ -59,25 +59,25 @@ Sunday                   902 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      8 hrs 15 mins       ██████████████████░░░░░░░   73.00 % 
-Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-PHP                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+CSS                      8 hrs 40 mins       ██████████████████░░░░░░░   73.75 % 
+Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+PHP                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 44 mins       ███████████████████░░░░░░   77.28 % 
-Sublime Text             2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+VS Code                  9 hrs 4 mins        ███████████████████░░░░░░   77.12 % 
+Sublime Text             2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
 
 🐱‍💻 Projects: 
-components               4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.88 % 
-Unknown Project          3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-chrome                   3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-my-firefox-configs       52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-GlassTAB-a-Firefox-NewTAB7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+components               4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
+chrome                   3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+Unknown Project          3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+my-firefox-configs       52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+GlassTAB-a-Firefox-NewTAB7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Linux                    11 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -103,7 +103,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:34:18 UTC
+ Last Updated on 06/09/2026 20:36:17 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
