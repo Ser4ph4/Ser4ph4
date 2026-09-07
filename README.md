@@ -59,25 +59,25 @@ Sunday                   902 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      8 hrs 40 mins       ██████████████████░░░░░░░   73.75 % 
-Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-PHP                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+CSS                      8 hrs 40 mins       ███████████████████░░░░░░   74.01 % 
+Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+PHP                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 4 mins        ███████████████████░░░░░░   77.12 % 
-Sublime Text             2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+VS Code                  9 hrs 2 mins        ███████████████████░░░░░░   77.22 % 
+Sublime Text             2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
 
 🐱‍💻 Projects: 
-components               4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
-chrome                   3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-Unknown Project          3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.51 % 
-my-firefox-configs       52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+components               4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.58 % 
+chrome                   3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+Unknown Project          3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+my-firefox-configs       52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 GlassTAB-a-Firefox-NewTAB7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Linux                    11 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -103,7 +103,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:36:17 UTC
+ Last Updated on 07/09/2026 21:40:52 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
