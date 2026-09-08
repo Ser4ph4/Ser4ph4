@@ -59,25 +59,25 @@ Sunday                   902 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      8 hrs 40 mins       ███████████████████░░░░░░   74.01 % 
-Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-PHP                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+CSS                      8 hrs 40 mins       ███████████████████░░░░░░   74.39 % 
+Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+PHP                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 2 mins        ███████████████████░░░░░░   77.22 % 
-Sublime Text             2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+VS Code                  8 hrs 59 mins       ███████████████████░░░░░░   77.10 % 
+Sublime Text             2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
 
 🐱‍💻 Projects: 
-components               4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.58 % 
-chrome                   3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-Unknown Project          3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-my-firefox-configs       52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-GlassTAB-a-Firefox-NewTAB7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+components               4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.76 % 
+chrome                   3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+Unknown Project          3 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+my-firefox-configs       52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+GlassTAB-a-Firefox-NewTAB7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
-Linux                    11 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -103,7 +103,7 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:40:52 UTC
+ Last Updated on 08/09/2026 21:20:29 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
