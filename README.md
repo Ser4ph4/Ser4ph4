@@ -59,15 +59,15 @@ Sunday                   934 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.21 % 
-PHP                      1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-CSS                      47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Python                   2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.23 % 
+PHP                      1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+CSS                      47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
 Bash                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 41 mins       ██████████████████████░░░   87.91 % 
-Sublime Text             38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+VS Code                  4 hrs 41 mins       ██████████████████████░░░   87.92 % 
+Sublime Text             38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 
 🐱‍💻 Projects: 
 Unknown Project          4 hrs 32 mins       █████████████████████░░░░   85.07 % 
@@ -100,7 +100,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 21:59:18 UTC
+ Last Updated on 15/09/2026 21:36:09 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
