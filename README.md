@@ -35,21 +35,21 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2538 commits        ███████████░░░░░░░░░░░░░░   42.66 % 
-🌆 Daytime                1679 commits        ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-🌃 Evening                1315 commits        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-🌙 Night                  417 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+🌞 Morning                2578 commits        ███████████░░░░░░░░░░░░░░   43.05 % 
+🌆 Daytime                1679 commits        ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+🌃 Evening                1315 commits        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+🌙 Night                  417 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Tuesday                  690 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Wednesday                939 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Thursday                 920 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Friday                   882 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Saturday                 876 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Sunday                   934 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Monday                   708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Tuesday                  690 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Wednesday                939 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Thursday                 960 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Friday                   882 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Saturday                 876 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Sunday                   934 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 ```
 
 
@@ -100,7 +100,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 21:32:37 UTC
+ Last Updated on 17/09/2026 21:36:12 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
