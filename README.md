@@ -59,21 +59,21 @@ Sunday                   934 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   4 hrs 40 mins       ███████████████░░░░░░░░░░   60.50 % 
-CSS                      1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Python                   4 hrs 39 mins       ███████████████░░░░░░░░░░   60.30 % 
+CSS                      1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
 JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 CSV                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 13 mins       ███████████████████████░░   93.60 % 
-Sublime Text             29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+VS Code                  7 hrs 15 mins       ███████████████████████░░   93.95 % 
+Sublime Text             28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🐱‍💻 Projects: 
-homepage                 3 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.38 % 
-Unknown Project          2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.89 % 
-chrome                   1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-oa5a8p72.nemik-178586708814 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+homepage                 3 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.41 % 
+Unknown Project          2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
+chrome                   1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+oa5a8p72.nemik-178586708814 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 💻 Operating System: 
 Linux                    7 hrs 43 mins       █████████████████████████   100.00 % 
@@ -102,7 +102,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:27:07 UTC
+ Last Updated on 03/10/2026 21:34:49 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
