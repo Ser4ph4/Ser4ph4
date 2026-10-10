@@ -59,20 +59,20 @@ Sunday                   937 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      3 hrs 20 mins       ██████████████████████░░░   88.79 % 
-Text                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+CSS                      3 hrs 22 mins       ██████████████████████░░░   89.50 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████████░░░░   84.13 % 
-Sublime Text             35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+VS Code                  3 hrs 11 mins       █████████████████████░░░░   84.85 % 
+Sublime Text             34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 
 🐱‍💻 Projects: 
-chrome                   3 hrs 30 mins       ███████████████████████░░   93.20 % 
-Unknown Project          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+chrome                   3 hrs 32 mins       ███████████████████████░░   93.90 % 
+Unknown Project          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 💻 Operating System: 
-Linux                    3 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +98,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:50:10 UTC
+ Last Updated on 10/10/2026 21:57:34 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
