@@ -59,20 +59,22 @@ Sunday                   937 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      3 hrs 22 mins       ██████████████████████░░░   89.50 % 
-Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+CSS                      2 hrs 34 mins       ████████████████░░░░░░░░░   65.48 % 
+Python                   1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       █████████████████████░░░░   84.85 % 
-Sublime Text             34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+VS Code                  3 hrs 11 mins       ████████████████████░░░░░   80.94 % 
+Sublime Text             45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
 
 🐱‍💻 Projects: 
-chrome                   3 hrs 32 mins       ███████████████████████░░   93.90 % 
-Unknown Project          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+chrome                   2 hrs 34 mins       ████████████████░░░░░░░░░   65.48 % 
+Unknown Project          1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+androidtvbackground      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 💻 Operating System: 
-Linux                    3 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +100,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 21:57:34 UTC
+ Last Updated on 11/10/2026 22:13:42 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
