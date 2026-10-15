@@ -59,24 +59,24 @@ Sunday                   937 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     2 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.42 % 
-CSS                      1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Python                   1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+HTML                     2 hrs 58 mins       █████████████░░░░░░░░░░░░   50.04 % 
+Python                   1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+CSS                      1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 44 mins       ██████████████████████░░░   88.50 % 
-Sublime Text             44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+VS Code                  5 hrs 24 mins       ███████████████████████░░   91.28 % 
+Sublime Text             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 
 🐱‍💻 Projects: 
-sensorpanel              2 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   41.02 % 
-Unknown Project          2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.58 % 
-chrome                   1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-androidtvbackground      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+sensorpanel              2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
+Unknown Project          1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   31.81 % 
+chrome                   1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+androidtvbackground      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 💻 Operating System: 
-Linux                    6 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,7 +102,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:53:58 UTC
+ Last Updated on 15/10/2026 21:37:35 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
