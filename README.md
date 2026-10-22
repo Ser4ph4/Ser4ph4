@@ -59,19 +59,19 @@ Sunday                   937 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    1 hr 15 mins        ███████████████░░░░░░░░░░   59.07 % 
-Text                     52 mins             ██████████░░░░░░░░░░░░░░░   40.83 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    1 hr 15 mins        █████████████░░░░░░░░░░░░   51.44 % 
+Text                     1 hr 11 mins        ████████████░░░░░░░░░░░░░   48.47 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Sublime Text             1 hr 8 mins         █████████████░░░░░░░░░░░░   53.29 % 
-VS Code                  59 mins             ████████████░░░░░░░░░░░░░   46.71 % 
+Sublime Text             1 hr 27 mins        ███████████████░░░░░░░░░░   59.32 % 
+VS Code                  59 mins             ██████████░░░░░░░░░░░░░░░   40.68 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 7 mins        █████████████████████████   100.00 % 
+Unknown Project          2 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +97,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:55:37 UTC
+ Last Updated on 22/10/2026 21:50:55 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
