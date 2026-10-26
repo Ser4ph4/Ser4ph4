@@ -59,22 +59,22 @@ Sunday                   979 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    1 hr 23 mins        █████████████░░░░░░░░░░░░   50.27 % 
-Text                     1 hr 11 mins        ███████████░░░░░░░░░░░░░░   42.97 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Text                     1 hr 19 mins        ████████████████████░░░░░   80.38 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Sublime Text             1 hr 30 mins        ██████████████░░░░░░░░░░░   54.44 % 
-VS Code                  1 hr 15 mins        ███████████░░░░░░░░░░░░░░   45.56 % 
+Sublime Text             1 hr 23 mins        █████████████████████░░░░   83.58 % 
+VS Code                  16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 42 mins       ████████████████████████░   97.44 % 
-NemiK                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Unknown Project          1 hr 35 mins        ████████████████████████░   95.72 % 
+NemiK                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 💻 Operating System: 
-Linux                    2 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:04:25 UTC
+ Last Updated on 26/10/2026 22:51:49 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
