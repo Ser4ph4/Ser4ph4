@@ -59,23 +59,23 @@ Sunday                   979 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Text                     2 hrs 16 mins       ██████████████░░░░░░░░░░░   56.58 % 
-Python                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Text                     2 hrs 16 mins       ███████████████░░░░░░░░░░   59.41 % 
+Python                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-Sublime Text             2 hrs 22 mins       ███████████████░░░░░░░░░░   58.88 % 
-VS Code                  1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   41.12 % 
+Sublime Text             2 hrs 22 mins       ███████████████░░░░░░░░░░   61.82 % 
+VS Code                  1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   38.18 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 55 mins       ████████████████████████░   97.46 % 
-NemiK                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-sensorpanel              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Unknown Project          3 hrs 43 mins       ████████████████████████░   97.33 % 
+NemiK                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+sensorpanel              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-Linux                    4 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,7 +101,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 22:35:21 UTC
+ Last Updated on 31/10/2026 21:49:38 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
