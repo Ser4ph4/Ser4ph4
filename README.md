@@ -86,11 +86,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in CSS** 
 
 ```text
-CSS                      8 repos             ██████████░░░░░░░░░░░░░░░   38.10 % 
-HTML                     6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+CSS                      8 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+HTML                     6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -100,7 +100,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2026 02:45:30 UTC
+ Last Updated on 03/11/2026 01:10:28 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
