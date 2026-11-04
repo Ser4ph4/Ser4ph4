@@ -4,8 +4,6 @@
 Hello! I'm <a href="https://github.com/Ser4ph4">Ser4ph4</a>, a passionate developer exploring the intersection of infrastructure, development, and automation.
 </samp>
 
-## 🚀 About Me
-
 I'm deeply interested in:
 - **Platform/Infrastructure Engineering** - Building scalable and reliable systems
 - **DevOps & SRE** - Automating workflows and improving developer experience
