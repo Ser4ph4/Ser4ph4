@@ -57,31 +57,47 @@ Sunday                   1020 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C++                      2 hrs 22 mins       ████████████░░░░░░░░░░░░░   49.41 % 
-Python                   1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   34.32 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+C++                      2 hrs 22 mins       ████████████░░░░░░░░░░░░░   49.73 % 
+Python                   1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   34.55 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████░░░░░░░░░░░░   51.01 % 
-Sublime Text             2 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.99 % 
+VS Code                  2 hrs 26 mins       █████████████░░░░░░░░░░░░   51.35 % 
+Sublime Text             2 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.65 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 48 mins       ████████████████████░░░░░   79.17 % 
-sensorpanel              28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-smalltv-pomodoro         28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-web                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Unknown Project          3 hrs 46 mins       ████████████████████░░░░░   79.04 % 
+sensorpanel              28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+smalltv-pomodoro         28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+web                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 auth                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Linux                    4 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (0.0%)
+
+✍️ 0 lines written by AI, 2,771 lines written by hand (0.0% AI-written)
+
+🔤 3,485 Input Tokens, 11 Output Tokens
+
+💵 $0.02 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 3 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in CSS** 
@@ -101,7 +117,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2026 22:09:26 UTC
+ Last Updated on 08/11/2026 22:21:39 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
