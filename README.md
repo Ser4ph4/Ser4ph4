@@ -57,48 +57,29 @@ Sunday                   1020 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 51 mins        ████████████████░░░░░░░░░   62.05 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JavaScript               1 hr 51 mins        ██████████████████░░░░░░░   70.26 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 42 mins       ██████████████████████░░░   89.97 % 
-Sublime Text             15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-OpenCode                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+VS Code                  2 hrs 23 mins       ██████████████████████░░░   89.95 % 
+Sublime Text             15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 
 🐱‍💻 Projects: 
-luci-app-vnstat-text     2 hrs 8 mins        ██████████████████░░░░░░░   71.53 % 
-luci-theme-proton2025    30 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Flint 2                  18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Projeto Padrão           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+luci-app-vnstat-text     2 hrs 8 mins        ████████████████████░░░░░   81.00 % 
+luci-theme-proton2025    30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Linux                    3 hrs               █████████████████████████   100.00 % 
+Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (11.69%)
-
-✍️ 1,267 lines written by AI, 1,078 lines written by hand (54.03% AI-written)
-
-🔤 169,805 Input Tokens, 91,090 Output Tokens
-
-💵 $19.46 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 3 AI Prompts
-
-DeepSeek                 1,269 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 54.03% of written lines came from AI
-📝 Concise Prompter — average 47 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 53.65% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in CSS** 
@@ -118,7 +99,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2026 22:41:38 UTC
+ Last Updated on 15/11/2026 23:05:01 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
