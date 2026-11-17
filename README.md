@@ -57,23 +57,23 @@ Sunday                   1020 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 51 mins        ██████████████████░░░░░░░   70.26 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+JavaScript               1 hr 51 mins        ███████████████████░░░░░░   77.07 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       ██████████████████████░░░   89.95 % 
-Sublime Text             15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+VS Code                  2 hrs 9 mins        ██████████████████████░░░   88.98 % 
+Sublime Text             15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 
 🐱‍💻 Projects: 
-luci-app-vnstat-text     2 hrs 8 mins        ████████████████████░░░░░   81.00 % 
-luci-theme-proton2025    30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+luci-app-vnstat-text     2 hrs 8 mins        ██████████████████████░░░   88.85 % 
+luci-theme-proton2025    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +99,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 23:05:01 UTC
+ Last Updated on 17/11/2026 01:59:09 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
