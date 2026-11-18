@@ -33,21 +33,21 @@ Currently diving deep into cloud-native technologies, container orchestration, a
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3181 commits        ████████████░░░░░░░░░░░░░   47.82 % 
-🌆 Daytime                1706 commits        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-🌃 Evening                1332 commits        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-🌙 Night                  433 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+🌞 Morning                3221 commits        ████████████░░░░░░░░░░░░░   48.13 % 
+🌆 Daytime                1706 commits        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+🌃 Evening                1332 commits        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+🌙 Night                  433 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   833 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Tuesday                  791 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Wednesday                988 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Thursday                 1092 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Friday                   1005 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Saturday                 923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Sunday                   1020 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Monday                   833 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Tuesday                  831 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Wednesday                988 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Thursday                 1092 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Friday                   1005 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Saturday                 923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Sunday                   1020 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 ```
 
 
@@ -57,23 +57,17 @@ Sunday                   1020 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 51 mins        ███████████████████░░░░░░   77.07 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JavaScript               11 mins             ████████████████████████░   94.48 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        ██████████████████████░░░   88.98 % 
-Sublime Text             15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-luci-app-vnstat-text     2 hrs 8 mins        ██████████████████████░░░   88.85 % 
-luci-theme-proton2025    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+luci-app-vnstat-text     12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +93,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ser4ph4/Ser4ph4/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 01:59:09 UTC
+ Last Updated on 18/11/2026 01:08:08 UTC
 <!--END_SECTION:waka-->
 **"Building the future, one commit at a time"** 🚀
 </div>
